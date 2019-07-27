@@ -7,7 +7,9 @@ public class Main {
       System.out.println("Welcom fary");
       System.out.println("From Tutan");
       System.out.println("from fary");
+
       System.out.println("from fary1");
+
 	}
 
 }
